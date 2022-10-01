@@ -1,4 +1,4 @@
-names = ["Vinay", "Koyana","Vinay", "Koyana",] 
+names = ["Vinay", "Koyana","Deva", "Rohit",] 
 
 def likes(names):
     n = len(names)
